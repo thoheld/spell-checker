@@ -1,5 +1,7 @@
 # spell-checker
 
+UMW CPSC 340 Project
+
 This project implements a binary search tree to run a spell checker.
 
 I wrote:
